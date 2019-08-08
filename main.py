@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 def do_job(e):
 	print('event started')
+	# replace code bellow with your needs
 	i = 0
 	while True:
 		i = i + 1
